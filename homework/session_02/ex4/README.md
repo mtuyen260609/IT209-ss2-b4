@@ -18,6 +18,4 @@ To                         Action      From
 ```
 
 ## 2. Cấu hình Cloud Firewall trên DigitalOcean
-*(Học viên: Hãy tải ảnh chụp màn hình thiết lập Cloud Firewall trên DigitalOcean Console của bạn lên thư mục này và sửa lại đường dẫn ảnh dưới đây)*
 
-![DigitalOcean Cloud Firewall Screenshot](./do-firewall-screenshot.png)
